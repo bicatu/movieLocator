@@ -39,20 +39,20 @@
 		D4FEE26713BC0774007E77AA /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D4FEE26913BC0774007E77AA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D4FEE26B13BC0774007E77AA /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D4FEE26F13BC0774007E77AA /* movieLocator-Info.plist */ = {isa = PBXFileReference; path = "movieLocator-Info.plist"; sourceTree = "<group>"; };
+		D4FEE26F13BC0774007E77AA /* movieLocator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "movieLocator-Info.plist"; sourceTree = "<group>"; };
 		D4FEE27113BC0774007E77AA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D4FEE27313BC0774007E77AA /* movieLocator-Prefix.pch */ = {isa = PBXFileReference; path = "movieLocator-Prefix.pch"; sourceTree = "<group>"; };
+		D4FEE27313BC0774007E77AA /* movieLocator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "movieLocator-Prefix.pch"; sourceTree = "<group>"; };
 		D4FEE27413BC0774007E77AA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D4FEE27613BC0775007E77AA /* movieLocatorAppDelegate.h */ = {isa = PBXFileReference; path = movieLocatorAppDelegate.h; sourceTree = "<group>"; };
+		D4FEE27613BC0775007E77AA /* movieLocatorAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = movieLocatorAppDelegate.h; sourceTree = "<group>"; };
 		D4FEE27713BC0775007E77AA /* movieLocatorAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = movieLocatorAppDelegate.m; sourceTree = "<group>"; };
 		D4FEE27A13BC0775007E77AA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		D4FEE27C13BC0775007E77AA /* RootViewController.h */ = {isa = PBXFileReference; path = RootViewController.h; sourceTree = "<group>"; };
+		D4FEE27C13BC0775007E77AA /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		D4FEE27D13BC0775007E77AA /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		D4FEE28013BC0775007E77AA /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/RootViewController.xib; sourceTree = "<group>"; };
 		D4FEE28713BC0775007E77AA /* movieLocatorTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = movieLocatorTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4FEE28F13BC0775007E77AA /* movieLocatorTests-Info.plist */ = {isa = PBXFileReference; path = "movieLocatorTests-Info.plist"; sourceTree = "<group>"; };
+		D4FEE28F13BC0775007E77AA /* movieLocatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "movieLocatorTests-Info.plist"; sourceTree = "<group>"; };
 		D4FEE29113BC0775007E77AA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D4FEE29313BC0775007E77AA /* movieLocatorTests-Prefix.pch */ = {isa = PBXFileReference; path = "movieLocatorTests-Prefix.pch"; sourceTree = "<group>"; };
+		D4FEE29313BC0775007E77AA /* movieLocatorTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "movieLocatorTests-Prefix.pch"; sourceTree = "<group>"; };
 		D4FEE29413BC0775007E77AA /* movieLocatorTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = movieLocatorTests.h; sourceTree = "<group>"; };
 		D4FEE29613BC0775007E77AA /* movieLocatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = movieLocatorTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
